@@ -1,3 +1,7 @@
+# Note
+
+I have stopped working on this project because I cannot find out how to do it.
+
 # SafeC
 SafeC Programming Language
 
@@ -12,3 +16,4 @@ SafeC transcompiles to C, then uses a C compiler (GCC, clang, etc.) to compile t
 ## Why SafeC?
 
 SafeC lets you make safe C code. It also has generics, lists/vectors, hashmaps, and etc.
+
